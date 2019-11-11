@@ -1,0 +1,2 @@
+alerte("Bonjour les amours")
+
